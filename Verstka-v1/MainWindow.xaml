@@ -12,6 +12,7 @@
             <TabItem Header="StackPanel"></TabItem>
             <TabItem Header="ComboBox" Height="22" Margin="-2,-2,-2,0" VerticalAlignment="Top"></TabItem>
             <TabControl Height="20"></TabControl>
+            <TabControl></TabControl>
         </TabControl>
     </Grid>
 </Window>
